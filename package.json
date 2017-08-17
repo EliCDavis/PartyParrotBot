@@ -1,0 +1,20 @@
+{
+  "name": "partyparrotbot",
+  "version": "1.0.0",
+  "description": "party time in a telegram chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "party"
+  ],
+  "author": "EliCDavis",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4"
+  }
+}
